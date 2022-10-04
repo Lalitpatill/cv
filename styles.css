@@ -1,0 +1,66 @@
+body{
+  background-color:#EEF1FF;
+
+}
+
+hr{
+  border-style:dotted none none;
+  border-spacing: 4px;
+  border-width: thick;
+  width: 5%;
+  color: grey;
+
+}
+
+h3{
+  color: #66BFBF;
+}
+a{
+  font-style:oblique;
+  font-size: 20px;
+  font-weight:bolder;
+  color: pink;
+}
+
+#desig{
+  font-style: oblique;
+  font-weight:bolder;
+  font-size-adjust: auto;
+  font-variant:small-caps;
+  font-size: 20px;
+}
+
+#pp{
+  border-style:solid;
+  border-radius:100%;
+  border-width: thick;
+  color: #31C6D4;
+
+}
+
+#linklogo{
+  background-color:#EEF1FF;
+  border-style:solid;
+  border-radius:20%;
+  padding-bottom:1px;
+  border-width:medium;
+  color:black;
+}
+
+#linklogo:hover{
+  width:40px;
+  height:40px ;
+}
+
+.contact:hover{
+  font-size: 24px;
+}
+
+h3:hover{
+  font-size: 24px;
+}
+
+#pp:hover{
+  width:180px ;
+  height:180px ;
+}
